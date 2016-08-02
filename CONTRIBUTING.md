@@ -1,1 +1,1 @@
-Controle de Versao com Git (nova modificacao)
+Controle de Versao com Git (versao 0.2)
